@@ -150,7 +150,7 @@ function ContentList({
                               className="ml-auto flex items-center gap-2 text-xl text-white transition-all duration-500 hover:text-yellow-400 font-medium md:ml-0"
                               href={tag}
                             >
-                              View Project <MdArrowOutward />
+                              View <MdArrowOutward />
                             </Link>
                           </span>
                         );
