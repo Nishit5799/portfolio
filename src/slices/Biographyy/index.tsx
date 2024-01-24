@@ -5,7 +5,7 @@ import { Content } from "@prismicio/client";
 
 
 import { PrismicRichText, SliceComponentProps } from "@prismicio/react";
-import Avatar from "./Avatar";
+import Avatar from "../../components/Avatar";
 
 /**
  * Props for `Biographyy`.
